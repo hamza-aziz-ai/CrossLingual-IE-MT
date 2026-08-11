@@ -10,7 +10,7 @@ name = "pytorch-gpu"
 
 [packages]
 torch = {version = ">=2.2,<3.0", index = "pytorch-gpu"}
-transformers = ">=4.41,<5.0"
+transformers = ">=5.5.0,<6.0"
 hf_xet = ">=1.0"
 sentencepiece = ">=0.2.0"
 accelerate = ">=0.30.0"
