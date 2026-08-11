@@ -1,0 +1,35 @@
+{
+  "description": "Example input sentences for quick manual testing of the web dashboard and pipeline. Each entry can be pasted directly into the app's input box with the matching source/target language selected.",
+  "examples": [
+    {
+      "id": "en_to_hi_1",
+      "source_language": "English",
+      "target_language": "Hindi",
+      "text": "Tim Cook announced the new iPhone in California yesterday. Apple will launch the product next week."
+    },
+    {
+      "id": "en_to_ta_1",
+      "source_language": "English",
+      "target_language": "Tamil",
+      "text": "The Indian cricket team won the match against Australia on Sunday in Chennai."
+    },
+    {
+      "id": "en_to_mr_1",
+      "source_language": "English",
+      "target_language": "Marathi",
+      "text": "Narayan Rane inaugurated the new hospital in Mumbai last month."
+    },
+    {
+      "id": "en_to_bn_1",
+      "source_language": "English",
+      "target_language": "Bengali",
+      "text": "Google acquired a startup based in Bangalore for two billion dollars."
+    },
+    {
+      "id": "hi_to_en_1",
+      "source_language": "Hindi",
+      "target_language": "English",
+      "text": "टिम कुक ने कल कैलिफोर्निया में नए आईफोन की घोषणा की।"
+    }
+  ]
+}
