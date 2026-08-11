@@ -32,8 +32,7 @@ pipenv run streamlit run frontend/app.py
 `pipenv install --dev` installs everything, including the spaCy `en_core_web_sm`
 model — no separate download step needed. See **[SETUP.md](SETUP.md)** for full
 installation instructions (including CPU vs. GPU `torch`), troubleshooting, and how
-to generate the application screenshots. See **[CLAUDE.md](CLAUDE.md)** /
-**[AGENTS.md](AGENTS.md)** if you're working in this repo with an AI coding agent.
+to generate the application screenshots.
 
 ## Deliverables map
 

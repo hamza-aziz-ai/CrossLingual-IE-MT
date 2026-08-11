@@ -608,6 +608,7 @@ cython_debug/
 CLAUDE.md
 AGENTS.md
 .claude
+tools/
 
 # Project Outputs
 runs/
